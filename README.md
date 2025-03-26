@@ -129,6 +129,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Based on the functionality from [ua-tax.web.app](https://ua-tax.web.app/faq)
 - Uses TestNG for testing
 - Implements precise decimal calculations using BigDecimal 
